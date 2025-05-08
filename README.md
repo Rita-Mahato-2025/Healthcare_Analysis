@@ -102,4 +102,4 @@ Hypertension
 
 ### 7.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Rita-Mahato-2025/Healthcare_Analysis/blob/main/Patient_Demographic_Report.png)
+Example: ![Dashboard Preview](https://github.com/Rita-Mahato-2025/Healthcare_Analysis/blob/main/Patient_Demographic_Report.jpg)
