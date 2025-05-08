@@ -4,7 +4,7 @@
 A concise, descriptive name for the dashboard.
 
 Example: 
-❄️ Healthcare Analytics: USA Healthcare Insights Dashboard
+Healthcare Analytics: USA Healthcare Insights Dashboard
 A dynamic, interactive data visualization tool built to explore healthcare data, USA —focusing on comparisons based on gender, age group, blood type, regions, seasonal admissions, hospitals and insurance impact. 
 ### 2.	Short Description / Purpose
 1–2 sentences explaining what the dashboard does and why it exists.
