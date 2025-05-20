@@ -52,7 +52,7 @@ Enables users to explore Healthcare, in USA.
 
 •	Walkthrough of Key Visuals
 -	Key KPIs (Top Left)
-Total patientsatients admitted: 56K
+Total patients admitted: 56K
 Average patient age: 51.54
 Average length of stay: 15.51
 
