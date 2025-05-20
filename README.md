@@ -17,7 +17,7 @@ This repository contains a Power BI template file (`.pbit`) for analyzing Health
 📌 Features:
 - Patient demographics report - Patients by blood types and gender, Patients admitted by months, Patients by medical conditions and age group,
 - Hospitals overview - Total Patients by Hospital and Insurance Provider, Geographical coverage, 
-- overview - Total Patients by Month and Admission types, Total Bill by Admission types, Patients by blood types and Admission types.
+- Overview - Total Patients by Month and Admission types, Total Bill by Admission types, Patients by blood types and Admission types.
 - Dynamic filters
 
 🛠️ Requirements: - Power BI Desktop (May 2023 or later)
