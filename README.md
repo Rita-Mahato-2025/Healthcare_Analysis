@@ -1,15 +1,9 @@
 # Healthcare -dashboard
 ## Recommended Structure and Order
 ### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-
-Example: 
 Healthcare Analytics: USA Healthcare Insights Dashboard
 A dynamic, interactive data visualization tool built to explore healthcare data, USA —focusing on comparisons based on gender, age group, blood type, regions, seasonal admissions, hospitals and insurance impact. 
 ### 2.	Short Description / Purpose
-1–2 sentences explaining what the dashboard does and why it exists.
-
-Example: 
 The Healthcare Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 10 major Hospitals across USA . The dashboard focuses insights about patient demographics, hospital billing, chronic illnesses and seasonal trends using Power BI.
 
 ### 3. Power BI Template: Healthcare Dashboard
@@ -29,9 +23,6 @@ This repository contains a Power BI template file (`.pbit`) for analyzing Health
 🛠️ Requirements: - Power BI Desktop (May 2023 or later)
 
 ### 4.	Tech Stack
-List the key technologies used to build the dashboard.
-
-Example:
 The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
@@ -39,8 +30,6 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 5.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
 Source: https://datadna.onyxdata.co.uk/. 
 
 
@@ -101,5 +90,4 @@ Hypertension
 
 
 ### 7.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Rita-Mahato-2025/Healthcare_Analysis/blob/main/Patient_Demographic_Report.jpg)
+ ![Dashboard Preview](https://github.com/Rita-Mahato-2025/Healthcare_Analysis/blob/main/Patient_Demographic_Report.jpg)
