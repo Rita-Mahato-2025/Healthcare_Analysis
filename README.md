@@ -35,13 +35,6 @@ Source: https://datadna.onyxdata.co.uk/.
 
 
 ### 6.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
-
-Example:
 •	Business Problem
 The USA Healthcare Industry, needed to identify the key reasons behind missed appointments and predict future no shows, to optimize scheduling and resource allocation.
 
